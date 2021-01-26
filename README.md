@@ -2,4 +2,5 @@
 ## Souce: 
 https://github.com/zxcodes/JavaScript-Calculator
 ## Changes:
-None Right Now.
+### Added Branding
+Added the "WowMeMath✅" text to the calculator
