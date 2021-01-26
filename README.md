@@ -1,5 +1,5 @@
 # FreeCalcWebUse
-##Souce: 
+## Souce: 
 https://github.com/zxcodes/JavaScript-Calculator
-##Changes:
+## Changes:
 None Right Now.
